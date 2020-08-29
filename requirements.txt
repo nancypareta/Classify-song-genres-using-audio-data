@@ -50,8 +50,6 @@ scipy
 simplegeneric
 six
 statsmodels
-tensorflow
-tensorflow-tensorboard
 terminado
 testpath
 tornado
